@@ -1,4 +1,4 @@
-[![MasterHead](universe2.png)]
+![MasterHead](universe2.png)
 <h1 align="center">Hi 👋, I'm Liyu Lo</h1>
 <h3 align="center">A passionate data analyst from Taiwan</h3>
 
