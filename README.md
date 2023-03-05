@@ -1,7 +1,7 @@
 ![MasterHead](pixelscapes1.gif)
 <h1 align="center">Hi 👋, I'm Liyu Lo</h1>
 <h3 align="center">A passionate data analyst from Taiwan</h3>
-<img align="right" alt="Coding" width="400" src=(PK.gif)>
+<img align="right" alt="Coding" width="400" src="PK.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xji6xu4m3&label=Profile%20views&color=0e75b6&style=flat" alt="xji6xu4m3" /> </p>
 
